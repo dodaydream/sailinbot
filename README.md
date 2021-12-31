@@ -27,7 +27,9 @@ nohup python3 sailinbot &
 
 ## Basic Usage
 
-By adding the bot to your group, when someone @ the bot, or reply the message sending from the bot, the bot will send random swear word to them.
+By adding the bot to your group, the bot will randomly reply swear words.
+
+The bot could also be triggered when someone @ the bot, or reply the message sending from the bot.
 
 User can use the `/drop` command to add them to white list, in that case will not be replied by the bot, and use `/enroll` to remove them from the whitelist.
 
